@@ -33,6 +33,24 @@ Aqui você encontrará soluções para:
 
 ---
 
-## 📁 Estrutura do Repositório
+## 🤝 Contribuição
 
-Cada pasta corresponde a um tema que nele contém alguns exercícios ou a um tópico específico. Dentro de cada pasta, você encontrará os arquivos `.py` com as soluções e, em alguns casos, um `README.md` específico para o conjunto de exercícios.
+Sinta-se à vontade para sugerir melhorias nas soluções existentes ou propor novos desafios.
+
+1.  Faça um `fork` deste repositório.
+2.  Crie uma nova `branch` para sua feature/melhoria (`git checkout -b feature/melhoria-ex-05`).
+3.  Faça suas alterações e `commit` (`git commit -m 'feat: Melhoria na solução do ex 05'`).
+4.  Envie suas alterações para o `fork` (`git push origin feature/melhoria-ex-05`).
+5.  Abra um `Pull Request` detalhando suas mudanças.
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+---
+
+## 📧 Contato
+
+* **Pedro Sallorenzo:** LinkedIn: https://www.linkedin.com/in/pedro-henrique-sallorenzo-11bab62b9/ | Email: pedrohenriquesallorenzo@gmail.com
